@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hritu\\source\\repos\\abc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|c:\\users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\datacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\datacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\datacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\datacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\iot\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|C:\\Users\\hritu\\source\\repos\\abc\\abc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3F473C-D50D-4BD8-B6D5-2BB5548870F8}|abc\\abc.csproj|solutionrelative:abc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl2.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl2.cs",
+              "RelativeToolTip": "abc\\iot\\UserControl2.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:45:27.972Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "abc\\dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.Designer.cs",
+              "RelativeToolTip": "abc\\dashboard.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:41:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl3.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl3.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl3.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl3.cs",
+              "RelativeToolTip": "abc\\iot\\UserControl3.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:03:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl3.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl3.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl3.cs [Design]",
+              "RelativeToolTip": "abc\\iot\\UserControl3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:03:04.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.cs",
+              "RelativeDocumentMoniker": "abc\\dashboard.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.cs [Design]",
+              "RelativeToolTip": "abc\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:02:25.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl1.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl1.cs [Design]",
+              "RelativeToolTip": "abc\\iot\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:02:53.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.cs",
+              "RelativeDocumentMoniker": "abc\\dashboard.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\dashboard.cs",
+              "RelativeToolTip": "abc\\dashboard.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAuwMcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:01:19.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl2.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl2.cs [Design]",
+              "RelativeToolTip": "abc\\iot\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:45:25.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "abc\\MDIParent1.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\MDIParent1.cs",
+              "RelativeToolTip": "abc\\MDIParent1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:11:09.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl1.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl1.cs",
+              "RelativeToolTip": "abc\\iot\\UserControl1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:15:20.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MDIParent1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "abc\\MDIParent1.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\MDIParent1.cs [Design]",
+              "RelativeToolTip": "abc\\MDIParent1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:13:39.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\Program.cs",
+              "RelativeDocumentMoniker": "abc\\Program.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\Program.cs",
+              "RelativeToolTip": "abc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:19:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\DataControl.cs",
+              "RelativeDocumentMoniker": "abc\\DataControl.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\DataControl.cs [Design]",
+              "RelativeToolTip": "abc\\DataControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:18:46.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataControl.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\DataControl.cs",
+              "RelativeDocumentMoniker": "abc\\DataControl.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\DataControl.cs",
+              "RelativeToolTip": "abc\\DataControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:18:48.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\App.config",
+              "RelativeDocumentMoniker": "abc\\App.config",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\App.config",
+              "RelativeToolTip": "abc\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-21T09:04:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "abc\\iot\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\iot\\UserControl1.Designer.cs",
+              "RelativeToolTip": "abc\\iot\\UserControl1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:15:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "abc\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hritu\\source\\repos\\abc\\abc\\Form1.Designer.cs",
+              "RelativeToolTip": "abc\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:44:25.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
